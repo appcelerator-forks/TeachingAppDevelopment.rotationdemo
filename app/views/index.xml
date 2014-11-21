@@ -1,0 +1,10 @@
+<Alloy>
+	<Window>
+		<View>
+			<Label>Rotation demo</Label>	
+		</View>
+		<View>
+			<ImageView id="ivRotateImage" image="/appsolution_logo_klh248x64.png" />
+		</View>
+	</Window>
+</Alloy>
