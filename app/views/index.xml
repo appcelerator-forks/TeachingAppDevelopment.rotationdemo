@@ -4,7 +4,7 @@
 			<Label>Rotation demo</Label>	
 		</View>
 		<View>
-			<ImageView id="ivRotateImage" image="/appsolution_logo_klh248x64.png" />
+			<ImageView id="ivRotateImage" top="200" onClick="doClickRotateImage" image="/appsolution_logo_klh248x64.png" />
 		</View>
 	</Window>
 </Alloy>
